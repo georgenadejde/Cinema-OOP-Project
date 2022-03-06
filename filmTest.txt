@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.film.Film", "_Entitate__idEntitate": "1", "_Film__titluFilm": "xyz", "_Film__anAparitie": 2002, "_Film__pretFilm": 12, "_Film__inProgram": "da"}, "2": {"py/object": "Domain.film.Film", "_Entitate__idEntitate": "2", "_Film__titluFilm": "abcd", "_Film__anAparitie": 2001, "_Film__pretFilm": 12, "_Film__inProgram": "da"}}
